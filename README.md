@@ -1,4 +1,4 @@
-# API
+# Renderer Server
 
 ## About
 
@@ -162,7 +162,7 @@ npm-debug.log
 
 require('dotenv').config()
 
-// After all your import staten=ments
+// After all your import statements
 
 var mongoose = require(‘mongoose’);
 mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/your-app-name');
