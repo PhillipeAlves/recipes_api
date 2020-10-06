@@ -97,7 +97,7 @@ app.get("/", (req, res) => {
     <body>
     <div class="banner">
       <h1>Hi, I'm an API!</h1>
-      <p>For more information please check the <a href=""><i class="fab fa-github"></i> docs</a>.</p>
+      <p>For more information please check the <a href="https://github.com/PhillipeAlves/recipes_api"><i class="fab fa-github"></i> docs</a>.</p>
     </div>
     </body> 
     </html>
