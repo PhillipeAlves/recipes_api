@@ -1,4 +1,4 @@
-# Renderer Server
+![Banner](/banner-api.gif)
 
 ## About
 
@@ -8,7 +8,7 @@ The API is responsible for handling the authentication and the logic around the 
 
 It manages the Database authentication, validation, authentication, authorization and logging.
 
-It returns JSON to the Renderer Server.
+It returns JSON to the Renderering Server.
 
 [API](https://secure-brushlands-32363.herokuapp.com/)
 
